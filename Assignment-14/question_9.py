@@ -1,0 +1,24 @@
+#######################################################################################
+# Name:         question_9.py
+# Description:  Lambda function which accept two number and return multiplication
+# Input:        Two numbers
+# Output:       Multiplication
+# Date:         03-07-2026
+# Author:       Ritesh Jillewad
+#######################################################################################
+
+multiplication = lambda x, y: x * y
+
+def main():
+
+    print("Enter number1: ")
+    num1 = int(input())
+
+    print("Enter number2: ")
+    num2 = int(input())
+
+    ret = multiplication(num1, num2)
+    print(f"Multiplication of {num1} and {num2}: {ret}")
+
+if __name__ == "__main__":
+    main()

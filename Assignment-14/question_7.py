@@ -1,21 +1,21 @@
 #######################################################################################
-# Name:         question_2.py
-# Description:  Lambda function which accepts one number and return the cube
+# Name:         question_7.py
+# Description:  Lambda function which return true if number is divisible by 5
 # Input:        Number
-# Output:       Cube of number
+# Output:       True or False
 # Date:         03-07-2026
 # Author:       Ritesh Jillewad
 #######################################################################################
 
-square = lambda x: x ** 3
+is_divisible = lambda x: x % 5 == 0
 
 def main():
 
     print("Enter number: ")
     num = int(input())
 
-    ret = square(num)
-    print(f"Cube of {num}: {ret}")
+    ret = is_divisible(num)
+    print(f"Is {num} divisible by 5?: {ret}")
 
 if __name__ == "__main__":
     main()

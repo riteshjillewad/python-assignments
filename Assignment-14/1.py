@@ -1,9 +1,9 @@
 #######################################################################################
 # Name:         question_1.py
 # Description:  Lambda function which accepts one number and return the square
-# Input:        Marks
-# Output:       Grades
-# Date:         28-06-2026
+# Input:        Number
+# Output:       Square
+# Date:         03-07-2026
 # Author:       Ritesh Jillewad
 #######################################################################################
 
