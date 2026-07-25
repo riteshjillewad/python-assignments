@@ -23,7 +23,7 @@ def work(N):
     
     print(f"Process ID: {pid}")
     print(f"Input Number: {N}")
-    print(f"Sum of even numbers: {sumOdd}")
+    print(f"Sum of odd numbers: {sumOdd}")
             
     return sumOdd
           
