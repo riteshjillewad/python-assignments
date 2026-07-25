@@ -10,6 +10,7 @@
 
 import multiprocessing
 import time
+import os
 
 def find_factorial(num):
     
@@ -21,6 +22,11 @@ def find_factorial(num):
     fact = 1
     for i in range(num, 0, -1):
         fact = fact * i
+        
+    pid = os.getpid()
+    print(f"Process ID  : {pid}")
+    print(f"Input number: {num}")
+    print(f"Factorial   : {fact}")
         
     return fact
         
