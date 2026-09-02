@@ -1,0 +1,10 @@
+=======================================================
+                     FILE METADATA                     
+=======================================================
+Filename               : C:\Users\rites\OneDrive\Desktop\Marvellous\Python Assignments\Assignment-31\demo\hello.txt
+File size              : 0
+File mode              : 33206
+Creation time          : 1788081078.0119767
+Last modification time : 1788081078.0119767
+Last access time       : 1788081078.0119767
+=======================================================

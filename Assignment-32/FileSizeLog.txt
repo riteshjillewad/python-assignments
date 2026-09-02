@@ -1,0 +1,10 @@
+=======================================================
+                     FILE METADATA                     
+=======================================================
+Filename               : C:\Users\rites\OneDrive\Desktop\Marvellous\Python Assignments\demo.txt
+File size              : 23 bytes
+File mode              : 33206
+Creation time          : 1787991076.450771
+Last modification time : 1787992053.9646187
+Last access time       : 1788331784.1075068
+=======================================================
