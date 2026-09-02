@@ -1,0 +1,8 @@
+=======================================================
+             MARVELLOUS DIRECTORY COUNT LOG            
+=======================================================
+Directory name : C:\Users\rites\OneDrive\Desktop\Marvellous\Python Assignments\Assignment-31\demo
+Number of files: 2
+Date and time  : 2026-09-02 11:30:11.578976
+=======================================================
+
