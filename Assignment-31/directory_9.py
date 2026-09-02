@@ -1,5 +1,4 @@
 # Count total number of files
-
 import os
 
 def main():    
